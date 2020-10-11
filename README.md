@@ -16,6 +16,8 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 
 ## Requirements
 
+Please execure pip install requirements.txt
+
 
 ## Project Instructions
 
